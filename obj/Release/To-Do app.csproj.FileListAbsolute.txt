@@ -1,0 +1,18 @@
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\bin\Release\To-Do app.exe.config
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\bin\Release\To-Do app.exe
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\bin\Release\To-Do app.pdb
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Release\To-Do app.csprojAssemblyReference.cache
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Release\MainWindow.g.cs
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Release\App.g.cs
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Release\To-Do app_MarkupCompile.cache
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Release\To-Do app_MarkupCompile.lref
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Release\App.baml
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Release\MainWindow.baml
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Release\To-Do app.g.resources
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Release\ToTo.Properties.Resources.resources
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Release\To-Do app.csproj.GenerateResource.cache
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Release\To-Do app.csproj.CoreCompileInputs.cache
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Release\To-Do app.exe
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Release\To-Do app.pdb
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\bin\Release\tasks.txt
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Release\To-Do app_Content.g.cs

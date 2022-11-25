@@ -1,0 +1,58 @@
+﻿<Window x:Class="practice.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:practice"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="400" Background="{x:Null}" ResizeMode="NoResize" WindowStyle="None" MouseLeftButtonDown="Window_MouseLeftButtonDown" AllowsTransparency="True">
+
+
+    <Border CornerRadius="5" Background="#FF262A33" BorderThickness="0,3">
+        <Grid x:Name="ekran" Focusable="True">
+            <Button x:Name ="quit" Click="quit_Button_Click" Margin="378,10,0,0" Style="{DynamicResource ButtonStyle1}">
+                <Button.Background>
+                    <ImageBrush ImageSource="icon1.png" Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name="maximize" Margin="356,10,0,0" Style="{DynamicResource ButtonStyle1}">
+                <Button.Background>
+                    <ImageBrush ImageSource="icon3.png" Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name="minimize" Margin="334,10,0,0" Click="minimize_Click" Style="{DynamicResource ButtonStyle1}">
+                <Button.Background>
+                    <ImageBrush ImageSource="icon2.png" Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+            <TextBlock Margin="174,8,177,0" TextWrapping="Wrap" Text="To do" VerticalAlignment="Top" Width="49" HorizontalAlignment="Center" FontFamily="Verdana Pro Semibold" FontSize="16" Foreground="#FF42FAAB"/>
+            <Separator HorizontalAlignment="Left" Height="18" Margin="10,29,0,0" VerticalAlignment="Top" Width="380" Foreground="#FF42FAAB" Background="#FF42FAAB"/>
+            <ListView x:Name="lw_liste" HorizontalAlignment="Center" Height="365"  VerticalAlignment="Center" Width="303" Background="{x:Null}" Foreground="{x:Null}" BorderBrush="{x:Null}" ScrollViewer.VerticalScrollBarVisibility="Hidden" Style="{DynamicResource ListViewStyle1}" Margin="48,114,49,114.6" ScrollViewer.HorizontalScrollBarVisibility="Hidden">
+                <ListView.Resources>
+                    <Style TargetType="CheckBox" BasedOn="{StaticResource {x:Type CheckBox}}">
+                        <EventSetter Event="Checked" Handler="CheckBox_Checked"></EventSetter>
+                        <Style.Triggers>
+                            <EventTrigger RoutedEvent="Checked">
+                                <SoundPlayerAction Source="checked.wav"/>
+                            </EventTrigger>
+                        </Style.Triggers>
+
+                    </Style>
+                </ListView.Resources>
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <TextBox x:Name="tbx_add" HorizontalAlignment="Center" Height="23" TextWrapping="Wrap" VerticalAlignment="Bottom" Width="252" Margin="48,0,100,49.6" KeyDown="tbx_add_KeyDown" Background="{x:Null}" Text="Your Task..." FontSize="18" BorderBrush="{x:Null}" GotFocus="tbx_add_GotFocus" Foreground="#FF4D6070" LostFocus="tbx_add_LostFocus" MaxLength="30" Style="{DynamicResource TextBoxStyle1}"/>
+            <Button x:Name="btn_add" Content="Button" HorizontalAlignment="Left" Margin="305,525,0,0" VerticalAlignment="Top" Width="40" Height="23" Style="{DynamicResource ButtonStyle1}" Click="btn_add_Click">
+                <Button.Background>
+                    <ImageBrush ImageSource="plus icon.png" Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+            <Separator x:Name="altCizgi" HorizontalAlignment="Left" Margin="48,549,0,34.6" Width="252" />
+        </Grid>
+    </Border>
+
+</Window>

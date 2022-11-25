@@ -1,0 +1,36 @@
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Debug\MainWindow.g.cs
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Debug\App.g.cs
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Debug\To-Do app_Content.g.cs
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Debug\To-Do app_MarkupCompile.cache
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Debug\To-Do app_MarkupCompile.lref
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\bin\Debug\tasks.txt
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\bin\Debug\To-Do app.exe.config
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\bin\Debug\To-Do app.exe
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\bin\Debug\To-Do app.pdb
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Debug\App.baml
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Debug\MainWindow.baml
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Debug\To-Do app.g.resources
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Debug\ToTo.Properties.Resources.resources
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Debug\To-Do app.csproj.GenerateResource.cache
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Debug\To-Do app.csproj.CoreCompileInputs.cache
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Debug\To-Do app.exe
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Debug\To-Do app.pdb
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\practice\obj\Debug\To-Do app.csprojAssemblyReference.cache
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\2-Do\bin\Debug\tasks.txt
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\2-Do\bin\Debug\To-Do app.exe.config
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\2-Do\bin\Debug\To-Do app.exe
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\2-Do\bin\Debug\To-Do app.pdb
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\2-Do\obj\Debug\To-Do app.csproj.AssemblyReference.cache
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\2-Do\obj\Debug\MainWindow.g.cs
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\2-Do\obj\Debug\App.g.cs
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\2-Do\obj\Debug\To-Do app_Content.g.cs
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\2-Do\obj\Debug\To-Do app_MarkupCompile.cache
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\2-Do\obj\Debug\To-Do app_MarkupCompile.lref
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\2-Do\obj\Debug\App.baml
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\2-Do\obj\Debug\MainWindow.baml
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\2-Do\obj\Debug\To-Do app.g.resources
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\2-Do\obj\Debug\ToTo.Properties.Resources.resources
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\2-Do\obj\Debug\To-Do app.csproj.GenerateResource.cache
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\2-Do\obj\Debug\To-Do app.csproj.CoreCompileInputs.cache
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\2-Do\obj\Debug\To-Do app.exe
+C:\Users\batur\OneDrive\Masaüstü\C#\WPF practice\2-Do\obj\Debug\To-Do app.pdb
